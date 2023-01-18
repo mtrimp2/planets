@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Hot and wet, and everything is my least favorite color.
-=======
-Cold and dry, but everything is my favorite color. (Eduardo here)
->>>>>>> a304537a2f084b209a8a2d782310904e78b2bd56
+Cold and dry, but everything is my favorite color. 
 The two moons may be a problem.
 Mars might be my favorite planet.
 There are mountains. 
